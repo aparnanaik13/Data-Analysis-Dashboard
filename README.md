@@ -18,11 +18,6 @@ The dashboard will provide a comprehensive view of key business metrics and data
 •	Highlight the total Value Created for insurers or stakeholders where Assets under Management is 'Equity': KPI card focusing on value creation under equity management.<br />
 •	Identify the highest value created by a single insurer: KPI card showcasing the top-performing insurer by value created.<br />
 
-## 4. Interactivity:
-•	Enable charts to dynamically filter other visuals when clicked: Clicking a chart segment applies filters to other dashboard elements.<br />
-•	Provide tooltips on hover to display detailed information: Rich tooltips reveal additional context, such as specific values or percentages.<br />
-•	Ensure filters and KPIs update dynamically based on selections: All dashboard elements refresh based on applied filters or clicks.<br />
-
 ## 3. Filters:
 •	Filter data by city: Dropdown menu to focus data visualization on specific regions.<br />
 •	Filter data by stakeholders: Dropdown to isolate and analyze individual stakeholder contributions.<br />
