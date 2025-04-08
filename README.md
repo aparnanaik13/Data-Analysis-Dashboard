@@ -12,3 +12,5 @@ The dashboard will provide a comprehensive view of key business metrics and data
 -Represent the distribution of assets under management across stakeholders: Bar or treemap visualizations display how assets are distributed among stakeholders.
 
 ## 2. Key Performance Indicators (KPIs):
+•	Display the total premium collected: KPI card summarizing the total amount of premiums collected.
+•	Show the average age of stakeholders: KPI card presenting the average stakeholder age.
