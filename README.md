@@ -41,4 +41,5 @@ The dashboard will provide a comprehensive view of key business metrics and data
 •Image : 
 ![Screenshot](https://github.com/user-attachments/assets/cb36ef7a-3f4b-4fed-b743-e7fe73cd3d23)
 
-
+## Feedback & Collaboration:
+Your feedback is welcome! If you'd like to collaborate on similar projects or discuss data analysis opportunities,feel free to reach out.
