@@ -37,7 +37,6 @@ The dashboard will provide a comprehensive view of key business metrics and data
 
 ## Expository Structure:
 •	Data: https://github.com/aparnanaik13/Data-Analysis-Dashboard/blob/main/Finance%20record.xlsx <br />
-•	Dashboard:https://github.com/aparnanaik13/Data-Analysis-Dashboard/blob/main/Screenshot.png <br />
-•	Include a light watermark with the company's branding on the exported PDF: Branding ensures a professional and consistent look.<br />
-
+•	Dashboard:https://github.com/aparnanaik13/Data-Analysis-Dashboard/blob/main/Stakeholder%20Insights%20and%20Performance%20Dashboard.twbx <br />
+•Image : https://github.com/aparnanaik13/Data-Analysis-Dashboard/blob/main/Screenshot.png <br />
 
