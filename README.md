@@ -36,7 +36,7 @@ The dashboard will provide a comprehensive view of key business metrics and data
 •	Include a light watermark with the company's branding on the exported PDF: Branding ensures a professional and consistent look.<br />
 
 ## Expository Structure:
-•	Data: <a href "https://github.com/aparnanaik13/Data-Analysis-Dashboard/blob/main/Finance%20record.xlsx"</a> <br />
+•	Data: "https://github.com/aparnanaik13/Data-Analysis-Dashboard/blob/main/Finance%20record.xlsx" <br />
 •	Ensure the PDF captures all visible charts, KPIs, and filters: Export captures a snapshot of the current dashboard state.<br />
 •	Include a light watermark with the company's branding on the exported PDF: Branding ensures a professional and consistent look.<br />
 
