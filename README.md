@@ -11,4 +11,4 @@ The dashboard will provide a comprehensive view of key business metrics and data
 -Visualize profitability for different cities and policy tenure durations: Heatmaps or bar charts categorize profitability by city and policy tenure.
 -Represent the distribution of assets under management across stakeholders: Bar or treemap visualizations display how assets are distributed among stakeholders.
 
-
+##2. Key Performance Indicators (KPIs):
