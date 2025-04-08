@@ -13,5 +13,33 @@ The dashboard will provide a comprehensive view of key business metrics and data
 
 
 ## 2. Key Performance Indicators (KPIs):
-•	Display the total premium collected: KPI card summarizing the total amount of premiums collected.
-•	Show the average age of stakeholders: KPI card presenting the average stakeholder age.
+•	Display the total premium collected: KPI card summarizing the total amount of premiums collected.<br />
+•	Show the average age of stakeholders: KPI card presenting the average stakeholder age.<br />
+•	Highlight the total Value Created for insurers or stakeholders where Assets under Management is 'Equity': KPI card focusing on value creation under equity management.<br />
+•	Identify the highest value created by a single insurer: KPI card showcasing the top-performing insurer by value created.<br />
+
+## 4. Interactivity:
+•	Enable charts to dynamically filter other visuals when clicked: Clicking a chart segment applies filters to other dashboard elements.<br />
+•	Provide tooltips on hover to display detailed information: Rich tooltips reveal additional context, such as specific values or percentages.<br />
+•	Ensure filters and KPIs update dynamically based on selections: All dashboard elements refresh based on applied filters or clicks.<br />
+
+## 3. Filters:
+•	Filter data by city: Dropdown menu to focus data visualization on specific regions.<br />
+•	Filter data by stakeholders: Dropdown to isolate and analyze individual stakeholder contributions.<br />
+•	Provide a range slider to filter policies based on tenure: Interactive slider to set tenure ranges.<br />
+•	Allow filtering of data within a specific date range: Date picker to narrow data analysis to a desired timeframe.<br />
+•	Enable filtering by gender for demographic insights: Gender filter to separate male and female stakeholder data.<br />
+
+## 4. Interactivity:
+•	Enable charts to dynamically filter other visuals when clicked: Clicking a chart segment applies filters to other dashboard elements.<br />
+•	Provide tooltips on hover to display detailed information: Rich tooltips reveal additional context, such as specific values or percentages.<br />
+•	Ensure filters and KPIs update dynamically based on selections: All dashboard elements refresh based on applied filters or clicks.<br />
+
+## 5. Export Options:
+•	PDF Export Button: Dedicated button to download the dashboard as a PDF.<br />
+•	Ensure the PDF captures all visible charts, KPIs, and filters: Export captures a snapshot of the current dashboard state.<br />
+•	Include a light watermark with the company's branding on the exported PDF: Branding ensures a professional and consistent look.<br />
+
+
+
+
