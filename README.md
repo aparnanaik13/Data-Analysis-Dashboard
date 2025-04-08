@@ -4,7 +4,7 @@ The dashboard will provide a comprehensive view of key business metrics and data
 
 ## Requirements:
 1. Charts and Visualizations:
--Compare the total value created by different insurers: Displays the total value created for a comparative analysis among insurers. < /br>
+-Compare the total value created by different insurers: Displays the total value created for a comparative analysis among insurers. <br />
 -Display trends in premiums collected over time: Shows premium trends using line or area charts to analyse changes over time.
 -Showcase the distribution of shareholding patterns among stakeholders: Visualizes shareholding patterns using pie or bar charts.
 -Analyse the relationship between cost ratio and profitability: Correlation or scatter plots reveal insights between cost ratio and profitability metrics.
