@@ -101,16 +101,19 @@ A fully interactive business intelligence dashboard built in **Tableau Public** 
 - UX-focused Dashboard Design<br />
 - KPI Cards and Interactive Charts<br />
 
+## 📂 Project Structure
+-📁 Stakeholder-Dashboard: 👉 [View More](https://github.com/aparnanaik13/Data-Analysis-Dashboard/blob/main/Stakeholder%20Insights%20and%20Performance%20Dashboard.twbx) <br /> 
+├── 📊 📊 [data.xlsx](https://github.com/aparnanaik13/Data-Analysis-Dashboard/blob/main/Finance%20record.xlsx) <br />
+
 ## 📌 Conclusion
 
 The **Stakeholder Insights and Performance Dashboard** is a Tableau Public-based business intelligence solution that translates complex insurance and stakeholder data into intuitive, interactive visualizations. By incorporating role-based views, export functionality, and dynamic filtering, this project showcases strong skills in **data analysis**, **visual storytelling**, and **dashboard design**.
 
-## 📂 Project Structure
--📁 Stakeholder-Dashboard: 👉 [View More](https://github.com/aparnanaik13/Data-Analysis-Dashboard/blob/main/Stakeholder%20Insights%20and%20Performance%20Dashboard.twbx) <br /> 
-├── 📊 data.xlsx:  https://github.com/aparnanaik13/Data-Analysis-Dashboard/blob/main/Finance%20record.xlsx <br />
-├── 📸 Screenshot.png:
-![Screenshot](https://github.com/user-attachments/assets/cb36ef7a-3f4b-4fed-b743-e7fe73cd3d23)
-
+## 📧 Contact Me
+If you have any questions, feedback, or would like to collaborate on data-driven projects, feel free to reach out:<br />
+-📬 Email: aparnanaik135@gmail.com<br />
+-💼 LinkedIn: linkedin.com/in/aparnanaik13<br />
+-🗂️ GitHub: github.com/aparnanaik13<br />
 
 
 
