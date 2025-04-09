@@ -59,29 +59,29 @@ A fully interactive business intelligence dashboard built in **Tableau Public** 
 ![Dashboard Screenshot](./Screenshot.png) <!-- Replace with actual image path or URL if hosted -->
 
 ## 🔧 Project Requirements (Short & Focused)
-✅ Visual Insights
--Compare value created by insurers
--Track premium trends over time
--Visualize shareholding distribution
--Analyze cost ratio vs. profitability
--Show city & tenure-wise profitability
--Display asset distribution by stakeholder
+✅ Visual Insights <br />
+-Compare value created by insurers<br />
+-Track premium trends over time<br />
+-Visualize shareholding distribution<br />
+-Analyze cost ratio vs. profitability<br />
+-Show city & tenure-wise profitability<br />
+-Display asset distribution by stakeholder<br />
 
 📌 Key Metrics (KPIs)
--Total premium collected
--Average stakeholder age
--Value created under Equity AUM
--Highest value by a single insurer
+-Total premium collected<br />
+-Average stakeholder age<br />
+-Value created under Equity AUM<br />
+-Highest value by a single insurer<br />
 
 # 🎛 Filters & Interactivity
--Filter by city, stakeholder, gender, date, and tenure
--Clickable charts to update other visuals
--Hover tooltips for deeper context
--Real-time updates on filter changes
+-Filter by city, stakeholder, gender, date, and tenure<br />
+-Clickable charts to update other visuals<br />
+-Hover tooltips for deeper context<br />
+-Real-time updates on filter changes<br />
 
 🖨 Export & Access
--Export dashboard as PDF with watermark
--Role-based data visibility for different users
+-Export dashboard as PDF with watermark<br />
+-Role-based data visibility for different users<br />
 
 # 🚀 Features
 
@@ -106,8 +106,8 @@ A fully interactive business intelligence dashboard built in **Tableau Public** 
 The **Stakeholder Insights and Performance Dashboard** is a Tableau Public-based business intelligence solution that translates complex insurance and stakeholder data into intuitive, interactive visualizations. By incorporating role-based views, export functionality, and dynamic filtering, this project showcases strong skills in **data analysis**, **visual storytelling**, and **dashboard design**.
 
 ## 📂 Project Structure
--📁 Stakeholder-Dashboard: https://github.com/aparnanaik13/Data-Analysis-Dashboard/blob/main/Stakeholder%20Insights%20and%20Performance%20Dashboard.twbx 
-├── 📊 data.xlsx:  https://github.com/aparnanaik13/Data-Analysis-Dashboard/blob/main/Finance%20record.xlsx 
+-📁 Stakeholder-Dashboard: https://github.com/aparnanaik13/Data-Analysis-Dashboard/blob/main/Stakeholder%20Insights%20and%20Performance%20Dashboard.twbx <br /> 
+├── 📊 data.xlsx:  https://github.com/aparnanaik13/Data-Analysis-Dashboard/blob/main/Finance%20record.xlsx <br />
 ├── 📸 Screenshot.png:
 ![Screenshot](https://github.com/user-attachments/assets/cb36ef7a-3f4b-4fed-b743-e7fe73cd3d23)
 
