@@ -79,7 +79,7 @@ A fully interactive business intelligence dashboard built in **Tableau Public** 
 -Hover tooltips for deeper context<br />
 -Real-time updates on filter changes<br />
 
-🖨 Export & Access
+🖨 Export & Access<br />
 -Export dashboard as PDF with watermark<br />
 -Role-based data visibility for different users<br />
 
@@ -106,10 +106,11 @@ A fully interactive business intelligence dashboard built in **Tableau Public** 
 The **Stakeholder Insights and Performance Dashboard** is a Tableau Public-based business intelligence solution that translates complex insurance and stakeholder data into intuitive, interactive visualizations. By incorporating role-based views, export functionality, and dynamic filtering, this project showcases strong skills in **data analysis**, **visual storytelling**, and **dashboard design**.
 
 ## 📂 Project Structure
--📁 Stakeholder-Dashboard: https://github.com/aparnanaik13/Data-Analysis-Dashboard/blob/main/Stakeholder%20Insights%20and%20Performance%20Dashboard.twbx <br /> 
+-📁 Stakeholder-Dashboard: 👉 [View More](https://github.com/aparnanaik13/Data-Analysis-Dashboard/blob/main/Stakeholder%20Insights%20and%20Performance%20Dashboard.twbx) <br /> 
 ├── 📊 data.xlsx:  https://github.com/aparnanaik13/Data-Analysis-Dashboard/blob/main/Finance%20record.xlsx <br />
 ├── 📸 Screenshot.png:
 ![Screenshot](https://github.com/user-attachments/assets/cb36ef7a-3f4b-4fed-b743-e7fe73cd3d23)
+
 
 
 
