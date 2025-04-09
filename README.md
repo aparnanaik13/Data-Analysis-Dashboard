@@ -13,7 +13,7 @@ A fully interactive business intelligence dashboard built in **Tableau Public** 
 -Show city & tenure-wise profitability<br />
 -Display asset distribution by stakeholder<br />
 
-📌 Key Metrics (KPIs)
+📌 Key Metrics (KPIs) <br />
 -Total premium collected<br />
 -Average stakeholder age<br />
 -Value created under Equity AUM<br />
@@ -58,7 +58,8 @@ The **Stakeholder Insights and Performance Dashboard** is a Tableau Public-based
 ## 📧 Contact Me
 If you have any questions, feedback, or would like to collaborate on data-driven projects, feel free to reach out:<br />
 -📬 Email: aparnanaik135@gmail.com<br />
--🗂️ GitHub: github.com/aparnanaik13<br />
+-🗂️ [GitHub: github.com/aparnanaik13](https://github.com/aparnanaik13)
+
 
 
 
