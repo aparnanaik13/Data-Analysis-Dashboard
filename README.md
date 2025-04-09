@@ -73,7 +73,7 @@ A fully interactive business intelligence dashboard built in **Tableau Public** 
 -Value created under Equity AUM<br />
 -Highest value by a single insurer<br />
 
-# 🎛 Filters & Interactivity
+## 🎛 Filters & Interactivity
 -Filter by city, stakeholder, gender, date, and tenure<br />
 -Clickable charts to update other visuals<br />
 -Hover tooltips for deeper context<br />
@@ -83,7 +83,7 @@ A fully interactive business intelligence dashboard built in **Tableau Public** 
 -Export dashboard as PDF with watermark<br />
 -Role-based data visibility for different users<br />
 
-# 🚀 Features
+## 🚀 Features
 
 - 📈 **Premium Trends Visualization**
 - 📊 **Cost Ratio vs. Profitability Analysis**
@@ -97,9 +97,9 @@ A fully interactive business intelligence dashboard built in **Tableau Public** 
 ## 🛠️ Tools & Technologies
 
 - **Tableau Public**
-- Data Modeling & Calculated Fields
-- UX-focused Dashboard Design
-- KPI Cards and Interactive Charts
+- Data Modeling & Calculated Fields<br />
+- UX-focused Dashboard Design<br />
+- KPI Cards and Interactive Charts<br />
 
 ## 📌 Conclusion
 
