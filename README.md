@@ -43,3 +43,48 @@ The dashboard will provide a comprehensive view of key business metrics and data
 
 ## Feedback & Collaboration:
 Your feedback is welcome! If you'd like to collaborate on similar projects or discuss data analysis opportunities,feel free to reach out.
+
+
+
+
+
+
+
+
+
+# 📊 Stakeholder Insights & Performance Dashboard
+
+A fully interactive business intelligence dashboard built in **Tableau Public** to help stakeholders, insurers, and decision-makers analyze key metrics like **premium trends**, **profitability**, **shareholding patterns**, and more.
+
+![Dashboard Screenshot](./Screenshot.png) <!-- Replace with actual image path or URL if hosted -->
+
+## 🚀 Features
+
+- 📈 **Premium Trends Visualization**
+- 📊 **Cost Ratio vs. Profitability Analysis**
+- 🧭 **Shareholding & Asset Distribution**
+- 🏙️ **City-wise and Tenure-wise Profitability**
+- 🎯 **Key Performance Indicators (KPIs)**
+- 🧩 **Role-Based Data Access Simulation**
+- 🖱️ **Interactive Filters & Click-to-Drill Insights**
+- 🧾 **PDF Export with Branding**
+
+## 🛠️ Tools & Technologies
+
+- **Tableau Public**
+- Data Modeling & Calculated Fields
+- UX-focused Dashboard Design
+- KPI Cards and Interactive Charts
+
+## 📌 Conclusion
+
+The **Stakeholder Insights and Performance Dashboard** is a Tableau Public-based business intelligence solution that translates complex insurance and stakeholder data into intuitive, interactive visualizations. By incorporating role-based views, export functionality, and dynamic filtering, this project showcases strong skills in **data analysis**, **visual storytelling**, and **dashboard design**.
+
+## 📂 Project Structure
+
+```bash
+📁 Stakeholder-Dashboard/
+├── 📸 Screenshot.png
+├── 📄 User Guide.docx
+├── README.md
+
