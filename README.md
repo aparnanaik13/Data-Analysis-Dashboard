@@ -83,8 +83,11 @@ The **Stakeholder Insights and Performance Dashboard** is a Tableau Public-based
 ## 📂 Project Structure
 
 ```bash
-📁 Stakeholder-Dashboard/
-├── 📸 Screenshot.png
-├── 📄 User Guide.docx
-├── README.md
+📁 Stakeholder-Dashboard:https://github.com/aparnanaik13/Data-Analysis-Dashboard/blob/main/Stakeholder%20Insights%20and%20Performance%20Dashboard.twbx <br />
+├── 📊 data.xlsx  https://github.com/aparnanaik13/Data-Analysis-Dashboard/blob/main/Finance%20record.xlsx <br />
+├── 📸 Screenshot.png:
+![Screenshot](https://github.com/user-attachments/assets/cb36ef7a-3f4b-4fed-b743-e7fe73cd3d23)
+
+
+
 
