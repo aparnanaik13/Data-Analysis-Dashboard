@@ -58,7 +58,32 @@ A fully interactive business intelligence dashboard built in **Tableau Public** 
 
 ![Dashboard Screenshot](./Screenshot.png) <!-- Replace with actual image path or URL if hosted -->
 
-## 🚀 Features
+## 🔧 Project Requirements (Short & Focused)
+# ✅ Visual Insights
+-Compare value created by insurers
+-Track premium trends over time
+-Visualize shareholding distribution
+-Analyze cost ratio vs. profitability
+-Show city & tenure-wise profitability
+-Display asset distribution by stakeholder
+
+# 📌 Key Metrics (KPIs)
+-Total premium collected
+-Average stakeholder age
+-Value created under Equity AUM
+-Highest value by a single insurer
+
+# 🎛 Filters & Interactivity
+-Filter by city, stakeholder, gender, date, and tenure
+-Clickable charts to update other visuals
+-Hover tooltips for deeper context
+-Real-time updates on filter changes
+
+# 🖨 Export & Access
+-Export dashboard as PDF with watermark
+-Role-based data visibility for different users
+
+# 🚀 Features
 
 - 📈 **Premium Trends Visualization**
 - 📊 **Cost Ratio vs. Profitability Analysis**
@@ -83,8 +108,8 @@ The **Stakeholder Insights and Performance Dashboard** is a Tableau Public-based
 ## 📂 Project Structure
 
 ```bash
-📁 Stakeholder-Dashboard:https://github.com/aparnanaik13/Data-Analysis-Dashboard/blob/main/Stakeholder%20Insights%20and%20Performance%20Dashboard.twbx <br />
-├── 📊 data.xlsx  https://github.com/aparnanaik13/Data-Analysis-Dashboard/blob/main/Finance%20record.xlsx <br />
+📁 Stakeholder-Dashboard: https://github.com/aparnanaik13/Data-Analysis-Dashboard/blob/main/Stakeholder%20Insights%20and%20Performance%20Dashboard.twbx 
+├── 📊 data.xlsx:  https://github.com/aparnanaik13/Data-Analysis-Dashboard/blob/main/Finance%20record.xlsx 
 ├── 📸 Screenshot.png:
 ![Screenshot](https://github.com/user-attachments/assets/cb36ef7a-3f4b-4fed-b743-e7fe73cd3d23)
 
