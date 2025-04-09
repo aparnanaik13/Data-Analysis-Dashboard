@@ -59,7 +59,7 @@ A fully interactive business intelligence dashboard built in **Tableau Public** 
 ![Dashboard Screenshot](./Screenshot.png) <!-- Replace with actual image path or URL if hosted -->
 
 ## 🔧 Project Requirements (Short & Focused)
-# ✅ Visual Insights
+✅ Visual Insights
 -Compare value created by insurers
 -Track premium trends over time
 -Visualize shareholding distribution
@@ -67,7 +67,7 @@ A fully interactive business intelligence dashboard built in **Tableau Public** 
 -Show city & tenure-wise profitability
 -Display asset distribution by stakeholder
 
-# 📌 Key Metrics (KPIs)
+📌 Key Metrics (KPIs)
 -Total premium collected
 -Average stakeholder age
 -Value created under Equity AUM
@@ -79,7 +79,7 @@ A fully interactive business intelligence dashboard built in **Tableau Public** 
 -Hover tooltips for deeper context
 -Real-time updates on filter changes
 
-# 🖨 Export & Access
+🖨 Export & Access
 -Export dashboard as PDF with watermark
 -Role-based data visibility for different users
 
@@ -106,12 +106,16 @@ A fully interactive business intelligence dashboard built in **Tableau Public** 
 The **Stakeholder Insights and Performance Dashboard** is a Tableau Public-based business intelligence solution that translates complex insurance and stakeholder data into intuitive, interactive visualizations. By incorporating role-based views, export functionality, and dynamic filtering, this project showcases strong skills in **data analysis**, **visual storytelling**, and **dashboard design**.
 
 ## 📂 Project Structure
-
-```bash
-📁 Stakeholder-Dashboard: https://github.com/aparnanaik13/Data-Analysis-Dashboard/blob/main/Stakeholder%20Insights%20and%20Performance%20Dashboard.twbx 
+-📁 Stakeholder-Dashboard: https://github.com/aparnanaik13/Data-Analysis-Dashboard/blob/main/Stakeholder%20Insights%20and%20Performance%20Dashboard.twbx 
 ├── 📊 data.xlsx:  https://github.com/aparnanaik13/Data-Analysis-Dashboard/blob/main/Finance%20record.xlsx 
 ├── 📸 Screenshot.png:
 ![Screenshot](https://github.com/user-attachments/assets/cb36ef7a-3f4b-4fed-b743-e7fe73cd3d23)
+
+
+
+
+
+
 
 
 
